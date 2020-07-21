@@ -1,5 +1,5 @@
-## Hi, I am Amit! 👋
-I am a Full Stack Web and Mobile app Developer based in Gurgaon, India. I enjoy programming Flutter apps in Dart and web apps using React JS.
+## Hi, I am Abhishek! 👋
+I am a Full Stack Web and Mobile app Developer based in Raipur, India. I enjoy programming Flutter apps in Dart and web apps using React JS.
 
 Here are some of the projects I have worked on:
 ## Mobile Apps
