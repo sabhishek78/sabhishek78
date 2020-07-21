@@ -57,3 +57,8 @@ I successfully passed 2 out of 3 course modules:
 - Full Stack Web Development
 
 [More detailed curriculum](https://mclarencollege.in/course-curriculum.html)
+
+###  M.Tech.(Embedded Electronics) VNIT Nagpur
+###  B.E.(Electronics and Telecommunications) RITEE Raipur
+
+
