@@ -31,8 +31,8 @@ game in terminal
 
 **Screenshots**
 
-![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/tictactoe_1.png)
-![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/tictactoe_2.png)
+![](https://github.com/sabhishek78/tic_tac_toe_starter/blob/master/screenshots/tictactoe3.png)
+![](https://github.com/sabhishek78/tic_tac_toe_starter/blob/master/screenshots/tictactoe4.png)
 
 ### Movie Carousel App - [GitHub Repo](https://github.com/sabhishek78/day_5_Movie_Carousal)
 A Flutter App displaying movies in a Carousel Slider. The movie data can be fetched from a network resource or a JSON object.
@@ -44,7 +44,7 @@ A Flutter App displaying movies in a Carousel Slider. The movie data can be fetc
 ![](https://github.com/sabhishek78/day_5_Movie_Carousal/blob/master/screenshots/carousel2.png)
 ![](https://github.com/sabhishek78/day_5_Movie_Carousal/blob/master/screenshots/carousel3.png)
 
-### Currency Exchange App - [GitHub Repo](https://github.com/sabhishek78/currency_exchange_app)
+### Currency Exchange App - [GitHub Repo](https://github.com/sabhishek78/currency_exchange_app)|[Demo](https://www.youtube.com/watch?v=zMxbJr9V9mE)
 A currency converter app based on OpenRates api.
 
 **⚡️ Built with: Flutter and Dart**
@@ -54,7 +54,17 @@ A currency converter app based on OpenRates api.
 ![](https://github.com/sabhishek78/currency_exchange_app/blob/master/screenshots/ce2.png)
 ![](https://github.com/sabhishek78/currency_exchange_app/blob/master/screenshots/ce3.png)
 
-### Animal Game BotChat - [GitHub Repo](https://github.com/sabhishek78/animal_game_botchat)
+### Animal Game BotChat - [GitHub Repo](https://github.com/sabhishek78/animal_game_botchat)|[Demo](https://www.youtube.com/watch?v=DC8aVbtFzIE&t=20s)
+A Dart based animal guess game. The user guesses the animal and accordingly new nodes are added to the tree.
+
+**⚡️ Built with: Flutter and Dart**
+**Screenshots**
+
+![](https://github.com/sabhishek78/animal_game_botchat/blob/master/screenshots/agg1.png)
+![](https://github.com/sabhishek78/animal_game_botchat/blob/master/screenshots/agg2.png)
+![](https://github.com/sabhishek78/animal_game_botchat/blob/master/screenshots/agg3.png)
+
+### Animal Game BotChat - [GitHub Repo](https://github.com/sabhishek78/animal_game_botchat)|[Demo](https://www.youtube.com/watch?v=DC8aVbtFzIE&t=20s)
 A Dart based animal guess game. The user guesses the animal and accordingly new nodes are added to the tree.
 
 **⚡️ Built with: Flutter and Dart**
