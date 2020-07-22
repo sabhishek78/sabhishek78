@@ -21,7 +21,7 @@ A news reader mobile app and a website focused on the tech community.
 <img src="https://mclarentimes.com/images/topSection_compressed.png" height="450" /><img src="https://mclarentimes.com/images/suggestion_compressed.png" height="450" style="padding-left:20px"/>
 
 
-### TicTacToe Game - [Google Play](https://play.google.com/store/apps/details?id=com.abhishekshrivastava78.tictactoe) | [GitHub Repo](https://github.com/sabhishek78/tic_tac_toe_refactoring_starter)
+### TicTacToe Game - [Google Play](https://play.google.com/store/apps/details?id=com.abhishekshrivastava78.tictactoe) | [GitHub Repo](https://github.com/sabhishek78/tic_tac_toe_refactoring_starter) | [Demo](https://www.youtube.com/watch?v=G-Sii1demqI)
 Classical 2 player game with nice graphics and animations.
 
 **⚡️ Built with: Flutter and Dart**
@@ -43,6 +43,26 @@ A Flutter App displaying movies in a Carousel Slider. The movie data can be fetc
 ![](https://github.com/sabhishek78/day_5_Movie_Carousal/blob/master/screenshots/carousel1.png)
 ![](https://github.com/sabhishek78/day_5_Movie_Carousal/blob/master/screenshots/carousel2.png)
 ![](https://github.com/sabhishek78/day_5_Movie_Carousal/blob/master/screenshots/carousel3.png)
+
+### Currency Exchange App - [GitHub Repo](https://github.com/sabhishek78/currency_exchange_app)
+A currency converter app based on OpenRates api.
+
+**⚡️ Built with: Flutter and Dart**
+**Screenshots**
+
+![](https://github.com/sabhishek78/currency_exchange_app/blob/master/screenshots/ce1.png)
+![](https://github.com/sabhishek78/currency_exchange_app/blob/master/screenshots/ce2.png)
+![](https://github.com/sabhishek78/currency_exchange_app/blob/master/screenshots/ce3.png)
+
+### Animal Game BotChat - [GitHub Repo](https://github.com/sabhishek78/animal_game_botchat)
+A Dart based animal guess game. The user guesses the animal and accordingly new nodes are added to the tree.
+
+**⚡️ Built with: Flutter and Dart**
+**Screenshots**
+
+![](https://github.com/sabhishek78/animal_game_botchat/blob/master/screenshots/agg1.png)
+![](https://github.com/sabhishek78/animal_game_botchat/blob/master/screenshots/agg2.png)
+![](https://github.com/sabhishek78/animal_game_botchat/blob/master/screenshots/agg3.png)
 ## Education
 ###  McLaren College
 - **Program: Full Stack Online Course**
