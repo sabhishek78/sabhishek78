@@ -34,6 +34,15 @@ game in terminal
 ![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/tictactoe_1.png)
 ![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/tictactoe_2.png)
 
+### Movie Carousel App - [GitHub Repo](https://github.com/sabhishek78/day_5_Movie_Carousal)
+A Flutter App displaying movies in a Carousel Slider. The movie data can be fetched from a network resource or a JSON object.
+
+**⚡️ Built with: Flutter and Dart**
+**Screenshots**
+
+![](https://github.com/sabhishek78/day_5_Movie_Carousal/blob/master/screenshots/carousel1.png)
+![](https://github.com/sabhishek78/day_5_Movie_Carousal/blob/master/screenshots/carousel2.png)
+![](https://github.com/sabhishek78/day_5_Movie_Carousal/blob/master/screenshots/carousel3.png)
 ## Education
 ###  McLaren College
 - **Program: Full Stack Online Course**
