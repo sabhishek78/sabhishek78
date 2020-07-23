@@ -88,8 +88,6 @@ This is an implementation of a Music Player App. The music can be read from a JS
 <img src="https://github.com/sabhishek78/spotify_player_clone/blob/master/screenshots/spotify3.png" height="450" />|
 <img src="https://github.com/sabhishek78/spotify_player_clone/blob/master/screenshots/spotify4.png" height="450" />
 
-
-
 ### Quotes App - [GitHub Repo](https://github.com/sabhishek78/my_quotes_app)
 A Quotes App based on the Favourite Quotes Api.The quotes are classified under various categories.Animation has been implemented while displaying the quotes and the author name..
 
@@ -101,6 +99,46 @@ A Quotes App based on the Favourite Quotes Api.The quotes are classified under v
 <img src="https://github.com/sabhishek78/my_quotes_app/blob/master/screenshots/quotes3.png" height="450" />|
 <img src="https://github.com/sabhishek78/my_quotes_app/blob/master/screenshots/quotes4.png" height="450" />
 
+### React Movies Website - [GitHub Repo](https://github.com/sabhishek78/movie_web_page_layout)
+This is a website to browse and search popular movies and view posters and trailer videos
+Implemented search using a 3rd Party REST API and used routing and pagination to load 10 movies at a time.
+
+
+**⚡️ Built with: Flutter and Dart**
+**Screenshots**
+
+<img src="https://github.com/sabhishek78/movie_web_page_layout/blob/master/screenshots/movies1.jpg" height="450" />|
+
+### Countdown Timer - [GitHub Repo](https://github.com/sabhishek78/count_down_timer)
+A Timer Application where the user can set multiple countdown timers.Each timer is added as a separate react component.When the timer expires the components are unmounted.
+
+
+**⚡️ Built with: Flutter and Dart**
+**Screenshots**
+
+<img src="https://github.com/sabhishek78/count_down_timer/blob/master/screenshots/timer.jpg" height="450" />|
+
+### MarkDown Editor - [GitHub Repo](https://github.com/sabhishek78/mark_down_editor)
+Desktop Version of a Markdown Editor where the editor converts user entered markdown text to simple text.
+
+
+**⚡️ Built with: Flutter and Dart**
+**Screenshots**
+
+<img src="https://github.com/sabhishek78/mark_down_editor/blob/master/screenshots/mde1.jpg" height="450" />|
+
+
+### Desktop Quiz App - [GitHub Repo](https://github.com/sabhishek78/quiz_webapp_starter)
+Desktop Version of a Quiz App.The quiz features a timer and at the end of the quiz results are displayed. Confetti has been used.
+
+
+
+**⚡️ Built with: Flutter and Dart**
+**Screenshots**
+
+<img src="https://github.com/sabhishek78/quiz_webapp_starter/blob/master/screenshots/quiz1.jpg" height="450" />|
+<img src="https://github.com/sabhishek78/quiz_webapp_starter/blob/master/screenshots/quiz2.jpg" height="450" />|
+<img src="https://github.com/sabhishek78/quiz_webapp_starter/blob/master/screenshots/quiz3.jpg" height="450" />
 
 
 ## Education
