@@ -40,8 +40,8 @@ A Flutter App displaying movies in a Carousel Slider. The movie data can be fetc
 **⚡️ Built with: Flutter and Dart**
 **Screenshots**
 
-<img src="https://github.com/sabhishek78/day_5_Movie_Carousal/blob/master/screenshots/carousel1.png" height="450" />
-<img src="https://github.com/sabhishek78/day_5_Movie_Carousal/blob/master/screenshots/carousel2.png" height="450" />
+<img src="https://github.com/sabhishek78/day_5_Movie_Carousal/blob/master/screenshots/carousel1.png" height="450" />|
+<img src="https://github.com/sabhishek78/day_5_Movie_Carousal/blob/master/screenshots/carousel2.png" height="450" />|
 <img src="https://github.com/sabhishek78/day_5_Movie_Carousal/blob/master/screenshots/carousel3.png" height="450" />
 
 
