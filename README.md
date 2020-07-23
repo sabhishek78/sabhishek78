@@ -51,9 +51,9 @@ A currency converter app based on OpenRates api.
 **⚡️ Built with: Flutter and Dart**
 **Screenshots**
 
-<img src="https://github.com/sabhishek78/currency_exchange_app/blob/master/screenshots/ce1.png" height="450" />
-<img src="https://github.com/sabhishek78/currency_exchange_app/blob/master/screenshots/ce2.png" height="450" />
-<img src="https://github.com/sabhishek78/currency_exchange_app/blob/master/screenshots/ce3.png" height="450" />
+<img src="https://github.com/sabhishek78/currency_exchange_app/blob/master/screenshots/ce1.png" height="450" />|
+<img src="https://github.com/sabhishek78/currency_exchange_app/blob/master/screenshots/ce2.png" height="450" />|
+<img src="https://github.com/sabhishek78/currency_exchange_app/blob/master/screenshots/ce3.png" height="450" />|
 
 
 ### Animal Game BotChat - [GitHub Repo](https://github.com/sabhishek78/animal_game_botchat)|[Demo](https://www.youtube.com/watch?v=DC8aVbtFzIE&t=20s)
@@ -62,8 +62,8 @@ A Dart based animal guess game. The user guesses the animal and accordingly new 
 **⚡️ Built with: Flutter and Dart**
 **Screenshots**
 
-<img src="https://github.com/sabhishek78/animal_game_botchat/blob/master/screenshots/agg1.png" height="450" />
-<img src="https://github.com/sabhishek78/animal_game_botchat/blob/master/screenshots/agg2.png" height="450" />
+<img src="https://github.com/sabhishek78/animal_game_botchat/blob/master/screenshots/agg1.png" height="450" />|
+<img src="https://github.com/sabhishek78/animal_game_botchat/blob/master/screenshots/agg2.png" height="450" />|
 <img src="https://github.com/sabhishek78/animal_game_botchat/blob/master/screenshots/agg3.png" height="450" />
 
 
@@ -73,7 +73,7 @@ A Climate App based on OpenWeatherMap api. The app displays the temperature at a
 **⚡️ Built with: Flutter and Dart**
 **Screenshots**
 
-<img src="https://github.com/sabhishek78/climate_appnew/blob/master/screenshots/climate1.png" height="450" />
+<img src="https://github.com/sabhishek78/climate_appnew/blob/master/screenshots/climate1.png" height="450" />|
 <img src="https://github.com/sabhishek78/climate_appnew/blob/master/screenshots/climate2.png" height="450" />
 
 
@@ -83,9 +83,9 @@ This is an implementation of a Music Player App. The music can be read from a JS
 **⚡️ Built with: Flutter and Dart**
 **Screenshots**
 
-<img src="https://github.com/sabhishek78/spotify_player_clone/blob/master/screenshots/spotify1.png" height="450" />
-<img src="https://github.com/sabhishek78/spotify_player_clone/blob/master/screenshots/spotify2.png" height="450" />
-<img src="https://github.com/sabhishek78/spotify_player_clone/blob/master/screenshots/spotify3.png" height="450" />
+<img src="https://github.com/sabhishek78/spotify_player_clone/blob/master/screenshots/spotify1.png" height="450" />|
+<img src="https://github.com/sabhishek78/spotify_player_clone/blob/master/screenshots/spotify2.png" height="450" />|
+<img src="https://github.com/sabhishek78/spotify_player_clone/blob/master/screenshots/spotify3.png" height="450" />|
 <img src="https://github.com/sabhishek78/spotify_player_clone/blob/master/screenshots/spotify4.png" height="450" />
 
 
@@ -96,9 +96,9 @@ A Quotes App based on the Favourite Quotes Api.The quotes are classified under v
 **⚡️ Built with: Flutter and Dart**
 **Screenshots**
 
-<img src="https://github.com/sabhishek78/my_quotes_app/blob/master/screenshots/quotes1.png" height="450" />
-<img src="https://github.com/sabhishek78/my_quotes_app/blob/master/screenshots/quotes2.png" height="450" />
-<img src="https://github.com/sabhishek78/my_quotes_app/blob/master/screenshots/quotes3.png" height="450" />
+<img src="https://github.com/sabhishek78/my_quotes_app/blob/master/screenshots/quotes1.png" height="450" />|
+<img src="https://github.com/sabhishek78/my_quotes_app/blob/master/screenshots/quotes2.png" height="450" />|
+<img src="https://github.com/sabhishek78/my_quotes_app/blob/master/screenshots/quotes3.png" height="450" />|
 <img src="https://github.com/sabhishek78/my_quotes_app/blob/master/screenshots/quotes4.png" height="450" />
 
 
