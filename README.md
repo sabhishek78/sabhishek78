@@ -64,15 +64,39 @@ A Dart based animal guess game. The user guesses the animal and accordingly new 
 ![](https://github.com/sabhishek78/animal_game_botchat/blob/master/screenshots/agg2.png)
 ![](https://github.com/sabhishek78/animal_game_botchat/blob/master/screenshots/agg3.png)
 
-### Animal Game BotChat - [GitHub Repo](https://github.com/sabhishek78/animal_game_botchat)|[Demo](https://www.youtube.com/watch?v=DC8aVbtFzIE&t=20s)
-A Dart based animal guess game. The user guesses the animal and accordingly new nodes are added to the tree.
+### Climate App - [GitHub Repo](https://github.com/sabhishek78/climate_appnew)
+A Climate App based on OpenWeatherMap api. The app displays the temperature at a chosen location and accordingly the background wallpaper and icons are displayed.
 
 **⚡️ Built with: Flutter and Dart**
 **Screenshots**
 
-![](https://github.com/sabhishek78/animal_game_botchat/blob/master/screenshots/agg1.png)
-![](https://github.com/sabhishek78/animal_game_botchat/blob/master/screenshots/agg2.png)
-![](https://github.com/sabhishek78/animal_game_botchat/blob/master/screenshots/agg3.png)
+![](https://github.com/sabhishek78/climate_appnew/blob/master/screenshots/climate1.png)
+![](https://github.com/sabhishek78/climate_appnew/blob/master/screenshots/climate2.png)
+
+### Spotify Music App - [GitHub Repo](https://github.com/sabhishek78/spotify_player_clone)
+This is an implementation of a Music Player App. The music can be read from a JSON file or a network resource. The wallpaper and the options to move ahead or back the music tracks is displayed.
+
+**⚡️ Built with: Flutter and Dart**
+**Screenshots**
+
+![](https://github.com/sabhishek78/spotify_player_clone/blob/master/screenshots/spotify1.png)
+![](https://github.com/sabhishek78/spotify_player_clone/blob/master/screenshots/spotify2.png)
+![](https://github.com/sabhishek78/spotify_player_clone/blob/master/screenshots/spotify3.png)
+![](https://github.com/sabhishek78/spotify_player_clone/blob/master/screenshots/spotify4.png)
+
+
+### Quotes App - [GitHub Repo](https://github.com/sabhishek78/my_quotes_app)
+A Quotes App based on the Favourite Quotes Api.The quotes are classified under various categories.Animation has been implemented while displaying the quotes and the author name..
+
+**⚡️ Built with: Flutter and Dart**
+**Screenshots**
+
+![](https://github.com/sabhishek78/my_quotes_app/blob/master/screenshots/quotes1.png)
+![](https://github.com/sabhishek78/my_quotes_app/blob/master/screenshots/quotes2.png)
+![](https://github.com/sabhishek78/my_quotes_app/blob/master/screenshots/quotes3.png)
+![](https://github.com/sabhishek78/my_quotes_app/blob/master/screenshots/quotes4.png)
+
+
 ## Education
 ###  McLaren College
 - **Program: Full Stack Online Course**
