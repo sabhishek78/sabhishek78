@@ -31,7 +31,7 @@ game in terminal
 
 **Screenshots**
 
-<img src="https://github.com/sabhishek78/tic_tac_toe_starter/blob/master/screenshots/tictactoe3.png" height="450" /><img src="https://github.com/sabhishek78/tic_tac_toe_starter/blob/master/screenshots/tictactoe4.png" height="450" />
+<img src="https://github.com/sabhishek78/tic_tac_toe_starter/blob/master/screenshots/tictactoe3.png" height="450" />|<img src="https://github.com/sabhishek78/tic_tac_toe_starter/blob/master/screenshots/tictactoe4.png" height="450" />
 
 
 ### Movie Carousel App - [GitHub Repo](https://github.com/sabhishek78/day_5_Movie_Carousal)
