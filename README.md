@@ -31,8 +31,9 @@ game in terminal
 
 **Screenshots**
 
-![](https://github.com/sabhishek78/tic_tac_toe_starter/blob/master/screenshots/tictactoe3.png)
-![](https://github.com/sabhishek78/tic_tac_toe_starter/blob/master/screenshots/tictactoe4.png)
+<img src="https://github.com/sabhishek78/tic_tac_toe_starter/blob/master/screenshots/tictactoe3.png" height="450" />
+<img src="https://github.com/sabhishek78/tic_tac_toe_starter/blob/master/screenshots/tictactoe4.png" height="450" />
+
 
 ### Movie Carousel App - [GitHub Repo](https://github.com/sabhishek78/day_5_Movie_Carousal)
 A Flutter App displaying movies in a Carousel Slider. The movie data can be fetched from a network resource or a JSON object.
@@ -40,9 +41,10 @@ A Flutter App displaying movies in a Carousel Slider. The movie data can be fetc
 **⚡️ Built with: Flutter and Dart**
 **Screenshots**
 
-![](https://github.com/sabhishek78/day_5_Movie_Carousal/blob/master/screenshots/carousel1.png)
-![](https://github.com/sabhishek78/day_5_Movie_Carousal/blob/master/screenshots/carousel2.png)
-![](https://github.com/sabhishek78/day_5_Movie_Carousal/blob/master/screenshots/carousel3.png)
+<img src="https://github.com/sabhishek78/day_5_Movie_Carousal/blob/master/screenshots/carousel1.png" height="450" />
+<img src="https://github.com/sabhishek78/day_5_Movie_Carousal/blob/master/screenshots/carousel2.png" height="450" />
+<img src="https://github.com/sabhishek78/day_5_Movie_Carousal/blob/master/screenshots/carousel3.png" height="450" />
+
 
 ### Currency Exchange App - [GitHub Repo](https://github.com/sabhishek78/currency_exchange_app)|[Demo](https://www.youtube.com/watch?v=zMxbJr9V9mE)
 A currency converter app based on OpenRates api.
@@ -50,9 +52,10 @@ A currency converter app based on OpenRates api.
 **⚡️ Built with: Flutter and Dart**
 **Screenshots**
 
-![](https://github.com/sabhishek78/currency_exchange_app/blob/master/screenshots/ce1.png)
-![](https://github.com/sabhishek78/currency_exchange_app/blob/master/screenshots/ce2.png)
-![](https://github.com/sabhishek78/currency_exchange_app/blob/master/screenshots/ce3.png)
+<img src="https://github.com/sabhishek78/currency_exchange_app/blob/master/screenshots/ce1.png" height="450" />
+<img src="https://github.com/sabhishek78/currency_exchange_app/blob/master/screenshots/ce2.png" height="450" />
+<img src="https://github.com/sabhishek78/currency_exchange_app/blob/master/screenshots/ce3.png" height="450" />
+
 
 ### Animal Game BotChat - [GitHub Repo](https://github.com/sabhishek78/animal_game_botchat)|[Demo](https://www.youtube.com/watch?v=DC8aVbtFzIE&t=20s)
 A Dart based animal guess game. The user guesses the animal and accordingly new nodes are added to the tree.
@@ -60,9 +63,10 @@ A Dart based animal guess game. The user guesses the animal and accordingly new 
 **⚡️ Built with: Flutter and Dart**
 **Screenshots**
 
-![](https://github.com/sabhishek78/animal_game_botchat/blob/master/screenshots/agg1.png)
-![](https://github.com/sabhishek78/animal_game_botchat/blob/master/screenshots/agg2.png)
-![](https://github.com/sabhishek78/animal_game_botchat/blob/master/screenshots/agg3.png)
+<img src="https://github.com/sabhishek78/animal_game_botchat/blob/master/screenshots/agg1.png" height="450" />
+<img src="https://github.com/sabhishek78/animal_game_botchat/blob/master/screenshots/agg2.png" height="450" />
+<img src="https://github.com/sabhishek78/animal_game_botchat/blob/master/screenshots/agg3.png" height="450" />
+
 
 ### Climate App - [GitHub Repo](https://github.com/sabhishek78/climate_appnew)
 A Climate App based on OpenWeatherMap api. The app displays the temperature at a chosen location and accordingly the background wallpaper and icons are displayed.
@@ -70,8 +74,9 @@ A Climate App based on OpenWeatherMap api. The app displays the temperature at a
 **⚡️ Built with: Flutter and Dart**
 **Screenshots**
 
-![](https://github.com/sabhishek78/climate_appnew/blob/master/screenshots/climate1.png)
-![](https://github.com/sabhishek78/climate_appnew/blob/master/screenshots/climate2.png)
+<img src="https://github.com/sabhishek78/climate_appnew/blob/master/screenshots/climate1.png" height="450" />
+<img src="https://github.com/sabhishek78/climate_appnew/blob/master/screenshots/climate2.png" height="450" />
+
 
 ### Spotify Music App - [GitHub Repo](https://github.com/sabhishek78/spotify_player_clone)
 This is an implementation of a Music Player App. The music can be read from a JSON file or a network resource. The wallpaper and the options to move ahead or back the music tracks is displayed.
@@ -79,10 +84,11 @@ This is an implementation of a Music Player App. The music can be read from a JS
 **⚡️ Built with: Flutter and Dart**
 **Screenshots**
 
-![](https://github.com/sabhishek78/spotify_player_clone/blob/master/screenshots/spotify1.png)
-![](https://github.com/sabhishek78/spotify_player_clone/blob/master/screenshots/spotify2.png)
-![](https://github.com/sabhishek78/spotify_player_clone/blob/master/screenshots/spotify3.png)
-![](https://github.com/sabhishek78/spotify_player_clone/blob/master/screenshots/spotify4.png)
+<img src="https://github.com/sabhishek78/spotify_player_clone/blob/master/screenshots/spotify1.png" height="450" />
+<img src="https://github.com/sabhishek78/spotify_player_clone/blob/master/screenshots/spotify2.png" height="450" />
+<img src="https://github.com/sabhishek78/spotify_player_clone/blob/master/screenshots/spotify3.png" height="450" />
+<img src="https://github.com/sabhishek78/spotify_player_clone/blob/master/screenshots/spotify4.png" height="450" />
+
 
 
 ### Quotes App - [GitHub Repo](https://github.com/sabhishek78/my_quotes_app)
@@ -91,10 +97,11 @@ A Quotes App based on the Favourite Quotes Api.The quotes are classified under v
 **⚡️ Built with: Flutter and Dart**
 **Screenshots**
 
-![](https://github.com/sabhishek78/my_quotes_app/blob/master/screenshots/quotes1.png)
-![](https://github.com/sabhishek78/my_quotes_app/blob/master/screenshots/quotes2.png)
-![](https://github.com/sabhishek78/my_quotes_app/blob/master/screenshots/quotes3.png)
-![](https://github.com/sabhishek78/my_quotes_app/blob/master/screenshots/quotes4.png)
+<img src="https://github.com/sabhishek78/my_quotes_app/blob/master/screenshots/quotes1.png" height="450" />
+<img src="https://github.com/sabhishek78/my_quotes_app/blob/master/screenshots/quotes2.png" height="450" />
+<img src="https://github.com/sabhishek78/my_quotes_app/blob/master/screenshots/quotes3.png" height="450" />
+<img src="https://github.com/sabhishek78/my_quotes_app/blob/master/screenshots/quotes4.png" height="450" />
+
 
 
 ## Education
