@@ -100,6 +100,17 @@ A Quotes App based on the Favourite Quotes Api.The quotes are classified under v
 <img src="https://github.com/sabhishek78/my_quotes_app/blob/master/screenshots/quotes4.png" height="450" />
 
 ##WebApps
+### McLaren Times Desktop App 
+Desktop Version of the McLaren Times Flutter App.
+
+
+
+**⚡️ Built with: ReactJS**
+**Screenshots**
+
+<img src="https://github.com/sabhishek78/untitled7/blob/master/screenshots/hackerTimesDesktop1.jpg" height="450" />|
+<img src="https://github.com/sabhishek78/untitled7/blob/master/screenshots/hackerTimesDesktop2.jpg" height="450" />|
+<img src="https://github.com/sabhishek78/untitled7/blob/master/screenshots/hackerTimesDesktop3.jpgg" height="450" />
 
 ### React Movies Website - [GitHub Repo](https://github.com/sabhishek78/movie_web_page_layout)
 This is a website to browse and search popular movies and view posters and trailer videos
