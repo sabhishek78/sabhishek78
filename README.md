@@ -110,7 +110,7 @@ Desktop Version of the McLaren Times Flutter App.
 
 <img src="https://github.com/sabhishek78/untitled7/blob/master/screenshots/hackerTimesDesktop1.jpg" height="450" />|
 <img src="https://github.com/sabhishek78/untitled7/blob/master/screenshots/hackerTimesDesktop2.jpg" height="450" />|
-<img src="https://github.com/sabhishek78/untitled7/blob/master/screenshots/hackerTimesDesktop3.jpgg" height="450" />
+<img src="https://github.com/sabhishek78/untitled7/blob/master/screenshots/hackerTimesDesktop3.jpg" height="450" />
 
 ### React Movies Website - [GitHub Repo](https://github.com/sabhishek78/movie_web_page_layout)
 This is a website to browse and search popular movies and view posters and trailer videos
