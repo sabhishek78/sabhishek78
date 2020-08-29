@@ -1,6 +1,5 @@
 ## Hi, I am Abhishek! 👋
 I am a Full Stack Engineer based in Raipur, India. I have a passion for programming and have an expertise over Flutter, ReactJS, Dart, Javascript, Firebase, MongoDB,AWS,HTML & CSS
-##  Visit My [LinkedIn Profile](https://www.linkedin.com/in/sabhishek78/)
 ## Some of my best projects are listed below:
 ### [McLaren Times](http://mclarentimes.com/) - [Google Play](https://play.google.com/store/apps/details?id=com.mclarencollege.mclarentimesapp) | [App Store](https://apps.apple.com/us/app/id1499247126)
 A news reader mobile app and a website focused on the tech community.
