@@ -2,11 +2,12 @@
 I am a Full Stack Engineer based in Raipur, India. I have a passion for programming and have an expertise over Flutter, ReactJS, Dart, Javascript, Firebase, MongoDB,AWS,HTML & CSS
 ## Some of my best projects are listed below:
 ### Current Project
-### [Restaurant App]
+### [ BUDDY PARAGUAY Restaurant App]
 A Flutter based Restaurant App where the user is shown a range of dished and he places his order selecting the restaurant he wants the order from.
 I have also implemented the App for the Restaurant Side where the workers can accept/reject/process orders and add/update new dishes and the user is notified 
 about the order status.
-
+[Client App](https://play.google.com/store/apps/details?id=com.younmin.buddyparaguay)
+[Admin App](https://play.google.com/store/apps/details?id=com.company.restaurantsideapp)
 **⚡️ Built with**
 - Flutter 
 - Firebase Database
